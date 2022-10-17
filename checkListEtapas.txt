@@ -1,0 +1,50 @@
+IDEIAS:
+DOCUMENTAÇÕES DO JAVASCRIPT
+EXTENÇOES DO VSCODE
+PERGUNTAS-RESPOSTAS > QUIZ
+O QUE É ORIENTAÇÃO A OBJETOS? QUAIS OS PILARES DE OO?
+RESOLVER EXERCICIOS BASICOS após estudar e praticar os fundamentos?
+EXERCICIOS PRÁTICOS BASICOS após estudar e praticar os fundamentos?
+EXERCICIOS PRÁTICOS PARA FAZER PROJETOS JS após estudar e praticar os fundamentos?
+EXERCICIOS PRÁTICOS PARA FAZER PROJETOS REACT JS após estudar e praticar os fundamentos?
+==============================================================================================================
+
+    1) ESTRUTURAS CONDICIONAIS: (if, else):
+    2) ESTRUTURAS DE REPETIÇÃO: (while, for):
+    3) OPERADORES: (ARITMETICOS {+, -, *, /, %} ATRIBUIÇÃO {=, ++, +=, -=, *=, /=, %=} RELACIONAIS {>,<,>=,<=,==,===,!=,!==} LOGICOS {!, ||, &&})
+
+    NUMBER: Number(), parseInt(),parseFloat(), isInteger(), isFinite()
+    DATE:
+      getFullYear(),getMonth(),getDate(),getDay(),getHours(),getMinutes(),getSeconds(),getMilliseconds(),getTime()
+      getUTCDate(),getUTCDay(),getUTCFullYear(),getUTCHours(),getUTCMilliseconds(),getUTCMinutes(),getUTCMonth(),getUTCSeconds()
+    MATH: random(),round(),ceil(),floor(),abs(),exp(),acos(),asin(),atan(),cbrt(),cos(),cosh(),hypot(),
+        log(),max(),min(),pow(),sign(),sin(),sinh(),sqrt(),tan(),tanh(),trunc()
+        
+    BOOLEAN() Boolean.length
+    STRINGS: {"",'',``} {charAt(), charCodeAt(), .indexOf(),substring(),concat(), replace(), split()}
+      charAt() charCodeAt() concat() constructor endsWith() fromCharCode() includes() indexOf() lastIndexOf() length localeCompare() match() prototype repeat() replace() search() slice() split() startsWith() substr() substring() toLocaleLowerCase() toLocaleUpperCase() toLowerCase() toString() toUpperCase() trim() trimEnd() trimStart() valueOf()
+      anchor() big() blink() bold() fixed() fontcolor() fontsize() italics() link() small() strike() sub() sup()
+      
+    FUNÇÕES: bind(),arrow,anonima,call back, constrututora, factory, IIFE, classe?, closure?
+
+    ARRAYS: concat(), join(), pop(), push(), shift(), slice(), splice(), toString(), unshift()
+    OBJETOS: Object.create() Object.preventExtensions() Object.isExtensible(produto) Object.entries(pessoa) entries(pessoa) defineProperty() Object.keys(pessoa)              Object.assign(dest, o1, o2) .freeze() Object.setPrototypeOf() .hasOwnProperty()
+    OUTROS METODOS PARA ARRAYS E OBJETOS: 
+        forEach(), map(), filter(), reduce(), concat(), flatmap(), every(), some(), find(), findIndex(),includes(), sort(), Array.from(), Array.of()
+        
+    WINDOW OBJECT: closed console defaultStatus document frameElement frames history innerHeight innerWidth length localStorage location name navigator opener outerHeight outerWidth pageXOffset pageYOffset parent screen screenLeft screenTop screenX screenY sessionStorage scrollX scrollY self status top
+    alert() atob() blur() btoa() clearInterval() clearTimeout() close() confirm() focus() getComputedStyle() getSelection() matchMedia() moveBy() moveTo() open() print() prompt() requestAnimationFrame() resizeBy() resizeTo() scroll() scrollBy() scrollTo() setInterval() setTimeout() stop()
+
+==============================================================================================================
+
+SEXTA ETAPA, TREINAR:
+    DOM: documentElement, getElementById, createElement, createAttribute, createTextNode, getElementsByTagName, appendChild, removeChild, parentNode
+    accessKey addEventListener() appendChild() attributes blur() childElementCount childNodes children classList className click() clientHeight clientLeft clientTop clientWidth cloneNode() closest() compareDocumentPosition() contains() contentEditable dir firstChild firstElementChild focus() getAttribute() getAttributeNode() getBoundingClientRect() getElementsByClassName() getElementsByTagName() hasAttribute() hasAttributes() hasChildNodes() id innerHTML innerText insertAdjacentElement() insertAdjacentHTML() insertAdjacentText() insertBefore() isContentEditable isDefaultNamespace() isEqualNode() isSameNode() isSupported() lang lastChild lastElementChild matches() namespaceURI nextSibling nextElementSibling nodeName nodeType nodeValue normalize() offsetHeight offsetWidth offsetLeft offsetParent offsetTop outerHTML outerText ownerDocument parentNode parentElement previousSibling previousElementSibling querySelector() querySelectorAll() remove() removeAttribute() removeAttributeNode() removeChild() removeEventListener() replaceChild() scrollHeight scrollIntoView() scrollLeft scrollTop scrollWidth setAttribute() setAttributeNode() style tabIndex tagName textContent title toString()
+=======================================================
+REQUISIÇÕES HTTP?
+
+=======================================================
+REACT?
+
+=======================================================
+REACT NATIVE?
